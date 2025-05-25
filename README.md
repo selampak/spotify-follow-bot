@@ -6,6 +6,7 @@ This is an automated bot that follows Spotify users using a graphical interface 
 ---
 ## 🛠 Other Languages
 [Eğer Türk iseniz bu bağlantı](https://github.com/selampak/spotify-follow-bot/blob/main/README_TR.md)
+
 [Si vous êtes français voici le lien](https://github.com/selampak/spotify-follow-bot/blob/main/README_FR.md)
 
 ## 🛠 Requirements
