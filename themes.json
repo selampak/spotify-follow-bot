@@ -1,0 +1,88 @@
+{
+  "themes": {
+    "spotify": {
+      "name": "Spotify Green (Dark)",
+      "appearance_mode": "dark",
+      "color_theme": "green",
+      "colors": {
+        "primary": "#1DB954",
+        "secondary": "#1ED760",
+        "bg": "#121212",
+        "text": "#FFFFFF",
+        "accent": "#1DB954"
+      }
+    },
+    "night_purple": {
+      "name": "Night Purple (Dark)",
+      "appearance_mode": "dark",
+      "color_theme": "dark-blue",
+      "colors": {
+        "primary": "#9370DB",
+        "secondary": "#B19CD9",
+        "bg": "#1E1E2E",
+        "text": "#FFFFFF",
+        "accent": "#DA70D6"
+      }
+    },
+    "system": {
+      "name": "System Mode",
+      "appearance_mode": "system",
+      "color_theme": "blue",
+      "colors": {
+        "primary": "#3B8ED0",
+        "secondary": "#36719F",
+        "bg": null,
+        "text": null,
+        "accent": "#3B8ED0"
+      }
+    },
+    "dark_blue": {
+      "name": "Dark Blue (Dark)",
+      "appearance_mode": "dark",
+      "color_theme": "blue",
+      "colors": {
+        "primary": "#0066CC",
+        "secondary": "#0099FF",
+        "bg": "#0D1117",
+        "text": "#FFFFFF",
+        "accent": "#00CCFF"
+      }
+    },
+    "sunset_orange": {
+      "name": "Sunset Orange (Dark)",
+      "appearance_mode": "dark",
+      "color_theme": "orange",
+      "colors": {
+        "primary": "#FF5733",
+        "secondary": "#FF8C66",
+        "bg": "#1A1A1A",
+        "text": "#FFFFFF",
+        "accent": "#FFBD33"
+      }
+    },
+    "mint_green": {
+      "name": "Mint Green (Light)",
+      "appearance_mode": "light",
+      "color_theme": "green",
+      "colors": {
+        "primary": "#00CC99",
+        "secondary": "#33FFCC",
+        "bg": "#F5F5F5",
+        "text": "#333333",
+        "accent": "#00AA77"
+      }
+    },
+    "rose_gold": {
+      "name": "Rose Gold (Light)",
+      "appearance_mode": "light",
+      "color_theme": "pink",
+      "colors": {
+        "primary": "#B76E79",
+        "secondary": "#E8C2CA",
+        "bg": "#FFF0F5",
+        "text": "#4A4A4A",
+        "accent": "#D4A5A5"
+      }
+    }
+  }
+}
